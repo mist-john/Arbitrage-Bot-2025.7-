@@ -51,8 +51,8 @@ Ensure your environment meets these requirements:
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/your-username/solana-arbitrage-bot.git
-   cd solana-arbitrage-bot
+   git clone https://github.com/mist-john/Arbitrage-Bot-2025.7.git
+   cd Arbitrage-Bot-2025.7
    yarn install
    ```
 
@@ -65,3 +65,4 @@ Ensure your environment meets these requirements:
 3. **Wallet Setup**
    ```bash
    # Generate
+
